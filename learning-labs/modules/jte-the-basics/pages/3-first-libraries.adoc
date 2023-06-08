@@ -77,7 +77,7 @@ This is done by configuring a *Library Source* in Jenkins.
 You can define as many Library Sources as you need. They can be defined globally for the entire Jenkins instance in `Manage Jenkins > Configure System >  Jenkins Templating Engine` or under the `Jenkins Templating Engine` configuration section on Folders.
 ====
 
-To make our libraries accessible to every job configured to use JTE on the Jenkins instace:
+To make our libraries accessible to every job configured to use JTE on the Jenkins instance:
 
 . In the lefthand navigation menu, click `Manage Jenkins`
 . Select the first option, `Configure System`
